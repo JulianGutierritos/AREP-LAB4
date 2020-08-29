@@ -28,7 +28,7 @@ Este es un programa que tiene dos objetivos: implementar un servidor web capaz d
 
 En el modelo se puede observar una interfaz llamada "URIProcessor", que es la que define cómo se debe comportar una clase que busque atender las solicitudes a recursos dinámicos (en nuestra arquitectura, la solicitudes a recursos dinámicos son aquellas que su paht inicia con "/Apps"). En el caso de nuestro programa solo realizamos una implementación de esta interfaz, pero cabe resaltar que se pueden agregar fácilmente distintas implementaciones sin afectar el funcionamiento de las clases que componen el programa.
 
-## Instrucciones para su compilación, ejecución y generación de documentación ##
+## Instrucciones para su compilación, ejecución y uso ##
 
 Para compilar el programa, se debe primero ubicar en la carpeta del archivo y posteriormente ejecutar el siguiente comando: 
 
